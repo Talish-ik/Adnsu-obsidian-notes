@@ -1,4 +1,4 @@
-### ==**Kinematics**== - motion with no cause of it
+### <mark>**Kinematics**</mark> - motion with no cause of it
 **Vector** - quantities that have a direction
 **Scalars** - quantities that don't have direction
 
@@ -21,7 +21,7 @@
 
 ---
 
-==**Linear movement**==
+<mark>**Linear movement**</mark>
 
 i, j, k - are the standard unit vectors pointing along the x, y, and z axes of a three-dimensional Cartesian coordinate system
 $\vec{r} = x\vec{i} + y\vec{j} + z\vec{k}$ 
