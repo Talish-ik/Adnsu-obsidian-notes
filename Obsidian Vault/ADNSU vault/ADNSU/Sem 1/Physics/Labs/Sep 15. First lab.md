@@ -3,7 +3,7 @@ The first hw was to learn the first lab work:
 
 # **1. DETERMINATION OF THE MOMENT OF INERTIA OF THE SOLIDS USING A TORSION PENDULUM**
 
-==Translational motion== - A motion in which all points of a body move with an equal speed and with the same trajectory as the body itself.
+<mark>Translational motion</mark> - A motion in which all points of a body move with an equal speed and with the same trajectory as the body itself.
 
 ==Rotational motion== - A motion in which body's components describe concentric circles at various speeds. So we need to express various dynamical values using angular velocity which is the same for every part of the body
    ![108](attachments/Pasted%20image%2020260917183045.png)or  ![148](attachments/Pasted%20image%2020260917182544.png)
