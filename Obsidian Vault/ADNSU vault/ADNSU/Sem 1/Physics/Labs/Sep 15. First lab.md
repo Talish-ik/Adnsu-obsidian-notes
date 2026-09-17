@@ -13,7 +13,7 @@ $r_i$ - the distance from particle to the axis of rotation
 $p$ - density
 $V$- volume of the body
 
-==Torsion pendulum== - a body hanged on a thread in a magnetic field. When rotating such a body around a fixed point torque appears and is proportional to the angular velocity. And the body begins to perform harmonic oscillations.
+<mark>Torsion pendulum</mark> - a body hanged on a thread in a magnetic field. When rotating such a body around a fixed point torque appears and is proportional to the angular velocity. And the body begins to perform harmonic oscillations.
 Apply the basic equation to the body that performs harmonic oscillations.  
 $M = J\frac{d^2φ}{dt^2}$  (equation 1)
 Where:
