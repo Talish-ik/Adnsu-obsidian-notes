@@ -23,9 +23,7 @@
 
 <mark>**Linear movement**</mark>
 
-i, j, k - are the standard unit vectors pointing along the x, y, and z axes of a three-dimensional Cartesian coordinate system
-$\vec{r} = x\vec{i} + y\vec{j} + z\vec{k}$ 
-$r^2 = x^2 + y^2 + z^2$ 
+i, j, k - are the standard unit vectors pointing along the x, y, and z axes of a three-dimensional Cartesian coordinate system $\vec{r} = x\vec{i} + y\vec{j} + z\vec{k}$  $r^2 = x^2 + y^2 + z^2$ 
 $r = \sqrt{x^2 + y^2 + z^2}$ 
 
 Average speed - scalar value
